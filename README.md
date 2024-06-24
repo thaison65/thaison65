@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, My name's Shaun 👋
 
 <!--
 **thaison65/thaison65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
